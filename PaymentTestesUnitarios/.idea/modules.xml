@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PROJETO FINAL.iml" filepath="$PROJECT_DIR$/.idea/PROJETO FINAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/api-automation-tests-challenge-rest-assured.iml" filepath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/api-automation-tests-challenge-rest-assured.iml" />
+    </modules>
+  </component>
+</project>
